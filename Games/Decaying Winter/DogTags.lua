@@ -17,4 +17,4 @@ do
 end
 
 -- // Set dog tags
-StatHolder.dogtags = 100
+StatHolder.dogtags = 1000000000
